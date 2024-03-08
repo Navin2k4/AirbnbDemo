@@ -1,2 +1,0 @@
-1.About props usable ans composable react components
-2.Creating components using the array of datas

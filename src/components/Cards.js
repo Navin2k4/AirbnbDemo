@@ -3,8 +3,6 @@ import Image1 from '../images/img1.png'
 import Image2 from '../images/img2.png'
 import Image3 from '../images/img3.png'
 
-
-
 export default function Cards() {
    return(
     <div className='card--section'>

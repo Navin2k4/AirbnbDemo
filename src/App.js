@@ -7,7 +7,7 @@ import Footer from "./components/FooterC"
 import Services  from "./components/Services";
 import Testimonials from "./components/Testimoial";
 
-export default function App(params) {
+export default function App() {
     return(
         <div>
             <Navbar/>
@@ -19,4 +19,3 @@ export default function App(params) {
         </div>
     )
 };
-
